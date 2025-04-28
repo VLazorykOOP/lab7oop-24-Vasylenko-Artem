@@ -31,7 +31,7 @@ void chooseTask()
 {
 	clearConsole();
 	char ch;
-	vector<char> validChoices = {'1', '2', '3', 'q'};
+	vector<char> validChoices = {'1', '2', '3', '4', 'q'};
 
 	while (true)
 	{
