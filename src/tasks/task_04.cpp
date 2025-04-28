@@ -129,10 +129,10 @@ void task_04()
 	tree.insert(5);
 	tree.insert(7);
 
-	// 	        4
+	// 	       4
 	//       /   \
 	//     2       6
-	//    / \     / \
+	//    / \     /
 	//   1   3   5   7
 
 	BinaryTree<int>::Iterator it = tree.getIterator();
